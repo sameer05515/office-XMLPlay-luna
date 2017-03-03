@@ -1,0 +1,40 @@
+<album-list>
+<album>
+	<title> Sample Album </title>
+	<year> 2014 </year>
+	<musicalStyle> Waltz </musicalStyle>
+	<song> Track 1 </song>
+	<song> Track 2 </song>
+	<song> Track 3 </song>
+	<song> Track 4 </song>
+	<song> Track 5 </song>
+	<song> Track 6 </song>
+	<song> Track 7 </song>
+</album>
+
+<album>
+	<title> Sample Album1 </title>
+	<year> 2015 </year>
+	<musicalStyle> Waltz1 </musicalStyle>
+	<song> Track 11 </song>
+	<song> Track 21 </song>
+	<song> Track 31</song>
+	<song> Track 41 </song>
+	<song> Track 51 </song>
+	<song> Track 61 </song>
+	<song> Track 71 </song>
+</album>
+
+<album>
+	<title> Sample Album2 </title>
+	<year> 2010 </year>
+	<musicalStyle> Waltz2 </musicalStyle>
+	<song> Track 111 </song>
+	<song> Track 211 </song>
+	<song> Track 311 </song>
+	<song> Track 411 </song>
+	<song> Track 511 </song>
+	<song> Track 611 </song>
+	<song> Track 711 </song>
+</album>
+</album-list>

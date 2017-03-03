@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<savedGame>
+	<name></name>
+	<player>
+		<name>YOU</name>
+		<map>
+			<health>2000</health>
+			<name>map_test.map</name>
+			<position>
+				<x>0</x>
+				<y>0</y>
+			</position>
+		</map>
+		<stats>
+			<health>1000</health>
+			<xp>
+				<melee></melee>
+				<magic></magic>
+				<ranged></ranged>
+				<agility></agility>
+			</xp>
+		</stats>
+		<items>
+			<item id="0">
+				<amount>200</amount>
+			</item>
+			
+			<item id="1">
+				<amount>500</amount>
+			</item>
+		</items>
+	</player>
+</savedGame>

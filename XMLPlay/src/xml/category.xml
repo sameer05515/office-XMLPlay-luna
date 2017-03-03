@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<root>
+	<category>
+		<name>
+			<![CDATA[ Category 1 ]]>
+		</name>
+		<link-url>
+
+			<![CDATA[ https://bitbucket.org/concentrixcorp/chef-repo ]]>
+
+		</link-url>
+		<sub-category-list>
+			<category>
+				<name>
+					<![CDATA[ Category 1.1 ]]>
+				</name>
+		
+				<link-url>
+		
+					<![CDATA[ https://ap-southeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-1#Instances:sort=instanceId ]]>
+		
+				</link-url>
+				<sub-category-list>
+				
+					<category>
+						<name>
+							<![CDATA[ Category 1.1.1 ]]>
+						</name>
+				
+						<link-url>
+				
+							<![CDATA[ https://ap-southeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-1#Instances:sort=instanceId ]]>
+				
+						</link-url>
+					</category>
+				
+				</sub-category-list>
+			</category>
+		</sub-category-list>
+	</category>
+
+	<category>
+		<name>
+			<![CDATA[ Category 2 ]]>
+		</name>
+
+		<link-url>
+
+			<![CDATA[ https://ap-southeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-1#Instances:sort=instanceId ]]>
+
+		</link-url>
+	</category>
+
+</root>
